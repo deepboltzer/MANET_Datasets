@@ -16,15 +16,12 @@ information in the background. It records sensor data and connectivity informati
 and other wireless access devices based on AllJoyn framework.
 
 ## ASTURIESER 
-(https://c rawda d.o rg//d ownlo ad/o viedo/a sturi es-e r/a sturi es-e r-1 year-m obili ty.c sv.g z): The
+(https://ieee-dataport.org/open-access/crawdad-oviedoasturies-er): The
 dataset comprises mobility traces and connectivity information of around 229 vehicles and helicopters in
 the regional Fire Department of Asturias, Spain, collected over one year. The datacenter collects devices
 current positions, status, contacts, etc., every 30 s. The threshold of communication distance between different
 devices is 10 m, 50 m or 200 m.
 
 ## ROTAXI 
-(https:// crawd ad. org// downl oad/ roma/ taxi/ taxi_ febru ary. tar. gz): This dataset is derived from
-the real motion traces from approximately 320 taxis with GPS devices in Roma, Italy, for the duration of
-one month. Each taxi driver uses the location manager software based on GPS to retrieve longitude and
-latitude coordinates of current location periodically. The dataset also records time duration, speed, status,
-and contact information among devices.
+(https://ieee-dataport.org/open-access/crawdad-epflmobility):
+This dataset contains mobility traces of taxi cabs in San Francisco, USA. It contains GPS coordinates of approximately 500 taxis collected over 30 days in the San Francisco Bay Area.
