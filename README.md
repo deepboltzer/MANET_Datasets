@@ -3,7 +3,7 @@
 This is a collection of MANET benchmark datasets.
 
 ## CONTACT 
-(http:// konect. cc/ files/ downl oad. tsv. conta ct. tar. bz2): This dataset records an undirected human
+(konect.cc/files/download.tsv.contact.tar.bz2): This dataset records an undirected human
 contact network. The trace records all contact information and data transfer between a group of users who
 carry wireless devices at various locations. In the dataset, a node represents a user; an edge between two
 users means that there is a contact between two proximate devices.
